@@ -31,8 +31,9 @@ This is a simple Survey Form created as part of a freeCodeCamp course on Respons
 ### Usage
 
 1. Open the `index.html` file in your preferred web browser.
-2. Fill out the form with your details, select preferences, and provide feedback.
-3. Click on the "Submit" button to submit the form.
+2. Alternatively, you can access the live site [here](https://abelgideon.github.io/Survey-Form/).
+3. Fill out the form with your details, select preferences, and provide feedback.
+4. Click on the "Submit" button to submit the form.
 
 ### File Structure
 
